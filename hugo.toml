@@ -103,7 +103,3 @@ url = "https://twitter.com/RobinOphalvens"
 [[params.socialIcons]]
 name = "Rss"
 url = "index.xml"
-
-[[params.socialIcons]]
-name = "mastodon"
-url = "https://mastodon-belgium.be/@rophalvens"
