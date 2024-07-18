@@ -29,7 +29,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "FOSS, rants and everything in-between"
+  description = "Random ramblings about all sorts of topics"
 
 [Languages.en-gb]
   languageName = "English"
@@ -55,7 +55,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "FOSS, rants and everything in-between"
+  description = "Random ramblings about all sorts of topics"
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -77,7 +77,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Robin Ophalvens"
   name = "Robin Ophalvens"
-  description = "FOSS, rants and everything in-between"
+  description = "Random ramblings about all sorts of topics"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -90,7 +90,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/RobinOphalvens"
+url = "https://github.com/robinoph"
 
 [[params.socialIcons]]
 name = "linkedin"
@@ -98,7 +98,7 @@ url = "https://linkedin.com/in/robin-ophalvens"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "https://twitter.com/RobinOphalvens"
+url = "https://twitter.com/robinoph_"
 
 [[params.socialIcons]]
 name = "Rss"
